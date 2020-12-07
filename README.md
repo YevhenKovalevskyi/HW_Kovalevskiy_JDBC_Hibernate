@@ -1,2 +1,2 @@
-# HW_Kovalevskiy_JDBC_Hibernate
-Java JDBC &amp; Hibernate Course CyberBionic Systematics homeworks 
+# HW_Kovalevskiy and JDBC_Hibernate
+Java JDBC and Hibernate Course CyberBionic Systematics homeworks 
