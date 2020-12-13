@@ -1,0 +1,3 @@
+rootProject.name = 'HW_Java_JDBC_Hibernate'
+include(':HW01_Kovalevskiy')
+include(':HW02_Kovalevskiy')
