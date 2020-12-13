@@ -1,0 +1,20 @@
+dependencies {
+    // junit
+    testImplementation 'junit:junit:4.13'
+
+    // lombok
+    compileOnly 'org.projectlombok:lombok:1.18.16'
+    annotationProcessor 'org.projectlombok:lombok:1.18.16'
+    testCompileOnly 'org.projectlombok:lombok:1.18.16'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.16'
+
+    // mysql
+    compileOnly 'mysql:mysql-connector-java:8.0.22'
+    runtimeOnly 'mysql:mysql-connector-java:8.0.22'
+
+    // pgsql
+    compileOnly 'org.postgresql:postgresql:42.2.18'
+    runtimeOnly 'org.postgresql:postgresql:42.2.18'
+}
+
+description = 'home_work_01'

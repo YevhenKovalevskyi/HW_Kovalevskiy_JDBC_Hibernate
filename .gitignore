@@ -1,0 +1,19 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+log/*
+target/
+
+# Gradle
+.gradle/
+
+# IntelliJ
+.idea
+*.iml
+out/
+
+# Help files
+_Help/*
